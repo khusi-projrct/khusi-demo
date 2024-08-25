@@ -1,3 +1,4 @@
 # khusi-demo
 This is my first Git Repository.
-Author-Pratyasha Nanda
+<br>
+<h2>Author-Pratyasha Nanda</h2>
